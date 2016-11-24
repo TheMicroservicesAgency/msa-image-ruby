@@ -47,7 +47,7 @@ Also included in the default Nginx configuration  :
 To use this image simply this line at the top of your Dockerfile :
 
 ```
-FROM msa-image-ruby:latest
+FROM msagency/msa-image-ruby:latest
 ```
 
 An example can be found here : [msa-template-ruby](https://github.com/TheMicroservicesAgency/msa-template-ruby)
