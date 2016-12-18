@@ -54,4 +54,4 @@ An example can be found here : [msa-template-ruby](https://github.com/TheMicrose
 
 ## About
 
-A project by the [Microservices Agency](https://microservices.agency).
+A project by the [Microservices Agency](http://microservices.agency).
